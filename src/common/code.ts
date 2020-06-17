@@ -1,0 +1,26 @@
+export class InstanceCode {
+  static CBH_CODE = "CBH";
+  static CBH_CODE_PATH = "cbh";
+  static CBH_NAME = "云堡垒机";
+  static VFW_CODE = "VFW";
+  static VFW_CODE_PATH = "vfw";
+  static VFW_NAME = "虚拟边界防护";
+  static CWAF_CODE = "CWAF";
+  static CWAF_CODE_PATH = "cwaf";
+  static CWAF_NAME = "云WAF";
+  static WDS_CODE = "WDS";
+  static WDS_CODE_PATH = "wds";
+  static WDS_NAME = "网页防篡改";
+  static AVS_CODE = "AVS";
+  static AVS_CODE_PATH = "avs";
+  static AVS_NAME = "云主机杀毒";
+  static HSEC_CODE = "HSec";
+  static HSEC_CODE_PATH = "hsec";
+  static HSEC_NAME = "云主机安全";
+  static LAS_CODE = "LAS";
+  static LAS_CODE_PATH = "las";
+  static LAS_NAME = "日志审计";
+  static DAS_CODE = "DAS";
+  static DAS_CODE_PATH = "das";
+  static DAS_NAME = "数据库审计";
+}
